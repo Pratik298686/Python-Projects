@@ -1,0 +1,2 @@
+Project Summary: 
+    This is a basic implementation of a voice-controlled assistant and lacks more advanced features such as natural language understanding and context management. It's a good starting point for a beginner's project and can be expanded upon by adding more functionalities and improving the user experience. Additionally, make sure to have the required libraries installed (pyttsx3, speech_recognition, and any others used) before running the script.
